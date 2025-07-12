@@ -1,4 +1,9 @@
 # Soccer Player & Ball Detection and Visualization
+## MY FINAL VIDEO
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BPc30WZTJys?si=HmcaE_9dZEwEB6fu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+
 
 ## Table of Contents
 - [Project Motivation & Goals](#project-motivation--goals)
@@ -199,7 +204,3 @@ Feel free to modify and extend this project for your own sports analytics and vi
 
 This project aims to re-identify soccer players across different camera views (broadcast and tacticam) using YOLOv8 for player detection and a re-identification model for matching. 
 
-## MY FINAL VIDEO
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BPc30WZTJys?si=HmcaE_9dZEwEB6fu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
